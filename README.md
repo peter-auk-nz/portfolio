@@ -1,73 +1,80 @@
-# 🌌 Cosmic Archive
+# Hi, I'm Peter 👋
 
-An interactive periodic table web application celebrating the elements that make up our universe.
+Developer in Auckland, New Zealand building interactive web applications with a focus on education and accessibility.
 
-## ✨ About
+## 🚀 Featured Projects
 
-The Cosmic Archive is a visual exploration of the 118 chemical elements, designed to make chemistry accessible and engaging. Each element has its own dedicated page with detailed information, and the site features multiple interactive tools for learning and discovery.
+### 📖 CSS Reference
+A comprehensive CSS reference guide with 19 detailed pages covering essential web styling concepts.
 
-## 🎯 Features
+**Features:**
+- 19 complete detail pages organized into 4 categories
+- Clean 3×6 grid layout with responsive design
+- In-depth coverage: Selectors, Grid, Flexbox, Animations, Transforms, Typography, and more
+- Built with pure HTML5 and CSS3
 
-### Completed ✅
+**[View Live Site](https://peter-auk-nz.github.io/css-reference/)** | **[Source Code](https://github.com/peter-auk-nz/css-reference)**
 
-- **Element Pages** - Individual pages for all 118 elements with detailed data
-- **Element Search** 🔍 - Quick search functionality to find elements instantly
-- **Element Quiz** 🎯 - Test your knowledge of the periodic table
-- **Interactive Periodic Table** 🎨 - Color-coded by period with hover effects and clickable elements
-- **Popup System** 💬 - Contextual information display
-
-### In Development 🚧
-
-- **Element Comparison** ⚖️ - Side-by-side element comparison tool
-- **Atom Size Visualizer** 📏 - Visual representation of atomic radii
-- **Electron Shell Animator** ⚛️ - Interactive electron configuration displays
-- **Isotope Explorer** 🔬 - Explore isotopes and their properties
-- **Element Discovery Timeline** 📅 - Historical timeline of element discoveries
-
-**Progress: 4/9 features complete (44%)**
-
-## 🛠️ Technologies
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- JSON data structure
-
-## 🎨 Design Features
-
-- Color-coded periods for easy visual navigation
-- Responsive design for all screen sizes
-- Smooth animations and hover effects
-- Clean, modern interface
-
-## 📁 Project Structure
-cosmic-archive/
-├── index.html             # Home page
-├── periodic-table.html    # Interactive periodic table
-├── quiz.html              # Element quiz
-├── element-1.html         # Individual element pages (1-118)
-├── styles.css             # Main stylesheet
-├── periodic-table.js      # Interactive table functionality
-├── elements-data.json     # Element database
-└── README.md              # This file
-## 🚀 Future Plans
-
-- Complete all 9 planned interactive features
-- Add more detailed atomic data
-- Implement data visualizations
-- Add educational content and learning paths
-- Mobile app version
-
-## 💭 Philosophy
-
-"Atoms gonna atom, universe gonna universe, reality gonna reality."
-
-This project celebrates the fundamental building blocks of everything we know. From the smallest particles to the largest structures in the cosmos, it all comes down to these 118 elements arranged in countless combinations.
-
-## 👨‍💻 Developer
-
-Built with curiosity and care by Peter in Auckland, New Zealand.
+**Status:** ✅ Complete (19/19 pages)
 
 ---
 
-*Last Updated: April 2026*
+### 🌌 Cosmic Archive
+An interactive periodic table web application celebrating the elements that make up our universe.
+
+**Features:**
+- Individual pages for all 118 elements with detailed data
+- Element Search 🔍 - Quick search functionality
+- Element Quiz 🎯 - Test your knowledge
+- Interactive Periodic Table 🎨 - Color-coded by period with hover effects
+- Element Comparison ⚖️ - Side-by-side comparison tool
+
+**[View Project](https://github.com/peter-auk-nz/cosmic-archive)**
+
+**Status:** 🚧 In Development (5/9 features complete, 56%)
+
+**Planned Features:**
+- Atom Visualiser ⚛️ - 2D Bohr model visualization
+- Electron Configuration Tool 🔢
+- Bonding Simulator 🔗
+- 3D Molecule Viewer 🧬
+
+---
+
+## 💻 Technologies
+
+**Frontend:**
+- HTML5, CSS3 (Grid, Flexbox, Animations, Transforms)
+- JavaScript (ES6+)
+- Responsive Design
+- GitHub Pages
+
+**Currently Working With:**
+- JSON data structures
+- Interactive DOM manipulation
+- CSS animations and transitions
+- Responsive web design
+
+**Future Learning Goals:**
+- Three.js for 3D visualization
+- Advanced interactive features
+- Data visualization techniques
+
+## 🛠️ Development Approach
+
+I focus on:
+- **Completion over perfection** - Shipping working projects
+- **Accessibility** - Clean, readable code and user-friendly interfaces  
+- **Progressive enhancement** - Building from simple to complex
+- **Documentation** - Clear README files and code comments
+
+## 📫 Connect
+
+- **GitHub:** [@peter-auk-nz](https://github.com/peter-auk-nz)
+- **Location:** Auckland, New Zealand
+
+---
+
+*"Atoms gonna atom, universe gonna universe, reality gonna reality."*
+
+Building interactive web experiences one project at a time.
