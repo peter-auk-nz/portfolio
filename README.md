@@ -29,7 +29,7 @@ An interactive periodic table web application celebrating the elements that make
 - Interactive Periodic Table 🎨 - Color-coded by period with hover effects
 - Element Comparison ⚖️ - Side-by-side comparison tool
 
-**[View Live Project](https://peter-auk-nz.github.io/cosmic-archive/)**
+**[View Live Site](https://peter-auk-nz.github.io/cosmic-archive/)**
 
 **Status:** 🚧 In Development (5/9 features complete, 56%)
 
