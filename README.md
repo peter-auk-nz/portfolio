@@ -1,73 +1,39 @@
-# 🌌 Cosmic Archive
+# Peter Sinclair - Web Developer Portfolio
 
-An interactive periodic table web application celebrating the elements that make up our universe.
+Personal portfolio showcasing web development projects and skills.
 
-## ✨ About
+## 🌐 Live Site
 
-The Cosmic Archive is a visual exploration of the 118 chemical elements, designed to make chemistry accessible and engaging. Each element has its own dedicated page with detailed information, and the site features multiple interactive tools for learning and discovery.
+[View Portfolio](https://peter-auk-nz.github.io/portfolio/)
 
-## 🎯 Features
+## 📋 About
 
-### Completed ✅
+This portfolio highlights my work as a web developer, featuring interactive educational tools and clean, accessible code. Based in Auckland, New Zealand, I specialize in building user-focused interfaces with HTML, CSS, and JavaScript.
 
-- **Element Pages** - Individual pages for all 118 elements with detailed data
-- **Element Search** 🔍 - Quick search functionality to find elements instantly
-- **Element Quiz** 🎯 - Test your knowledge of the periodic table
-- **Interactive Periodic Table** 🎨 - Color-coded by period with hover effects and clickable elements
-- **Popup System** 💬 - Contextual information display
+## 🚀 Featured Project
 
-### In Development 🚧
+### Cosmic Archive - Chemistry Element Explorer
 
-- **Element Comparison** ⚖️ - Side-by-side element comparison tool
-- **Atom Size Visualizer** 📏 - Visual representation of atomic radii
-- **Electron Shell Animator** ⚛️ - Interactive electron configuration displays
-- **Isotope Explorer** 🔬 - Explore isotopes and their properties
-- **Element Discovery Timeline** 📅 - Historical timeline of element discoveries
+An interactive chemistry education platform featuring six educational tools for exploring the periodic table and learning about all 118 elements.
 
-**Progress: 4/9 features complete (44%)**
+**Live Site:** [Cosmic Archive](https://peter-auk-nz.github.io/cosmic-archive/)  
+**Repository:** [GitHub](https://github.com/peter-auk-nz/cosmic-archive)
 
 ## 🛠️ Technologies
 
-- HTML5
-- CSS3
+- HTML5 & CSS3
 - JavaScript (ES6+)
-- JSON data structure
+- Git & GitHub
+- Responsive Design
+- Accessibility Best Practices
 
-## 🎨 Design Features
+## 📫 Contact
 
-- Color-coded periods for easy visual navigation
-- Responsive design for all screen sizes
-- Smooth animations and hover effects
-- Clean, modern interface
-
-## 📁 Project Structure
-cosmic-archive/
-├── index.html             # Home page
-├── periodic-table.html    # Interactive periodic table
-├── quiz.html              # Element quiz
-├── element-1.html         # Individual element pages (1-118)
-├── styles.css             # Main stylesheet
-├── periodic-table.js      # Interactive table functionality
-├── elements-data.json     # Element database
-└── README.md              # This file
-## 🚀 Future Plans
-
-- Complete all 9 planned interactive features
-- Add more detailed atomic data
-- Implement data visualizations
-- Add educational content and learning paths
-- Mobile app version
-
-## 💭 Philosophy
-
-"Atoms gonna atom, universe gonna universe, reality gonna reality."
-
-This project celebrates the fundamental building blocks of everything we know. From the smallest particles to the largest structures in the cosmos, it all comes down to these 118 elements arranged in countless combinations.
-
-## 👨‍💻 Developer
-
-Built with curiosity and care by Peter in Auckland, New Zealand.
+- **Email:** pmsinclair12@gmail.com
+- **GitHub:** [github.com/peter-auk-nz](https://github.com/peter-auk-nz)
+- **Location:** Auckland, New Zealand
 
 ---
 
 *Last Updated: April 2026*
+
